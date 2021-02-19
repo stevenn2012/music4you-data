@@ -1,27 +1,20 @@
 {
     "topics": {
-        "1": "Amor",
-        "2": "Despecho",
-        "3": "Cumpleaños",
-        "4": "Año nuevo",
-        "5": "Conquista",
-        "6": "Luto",
-        "7": "Despedida",
-        "8": "Nacimiento",
-        "9": "Mamá",
-        "10": "Papá",
-        "11": "Distancia",
-        "12": "Infidelidad"
+        "1": "CUMPLEAÑOS",
+        "2": "DISTANCIA",
+        "3": "PADRE",
+        "4": "RECONCILIACIÓN ",
+        "5": "CONQUISTA"
     },
     "artists": {
-        "1": "Mauricio y palodeagua"
+        "1": "MAURICIO Y PALODEAGUA"
     },
     "songs": [
         {
             "id": "1",
-            "name": "Niña",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://resources.tidal.com/images/2e9ddbf8/a12b/4820/8517/80189433ad90/640x640.jpg",
+            "name": "TU CUMPLEAÑOS",
+            "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/TU-CUMPLEANOS-MYPDA-VERSION-CORTA.mp3",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU CUMPLEANOS.png",
             "artist": "1",
             "topics": [
                 "1"
@@ -29,9 +22,9 @@
         },
         {
             "id": "2",
-            "name": "Si ella no está",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://e-cdns-images.dzcdn.net/images/artist/76593210603b107fe269c7b39a8d4c22/264x264.jpg",
+            "name": "LEJANÍA",
+            "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/LEJANIA-MYPDA-VERSION-CORTA.mp3",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.png",
             "artist": "1",
             "topics": [
                 "2"
@@ -39,9 +32,9 @@
         },
         {
             "id": "3",
-            "name": "La vida gira",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://i1.sndcdn.com/artworks-0ljj5zaSyritMYZK-STD5Dg-t500x500.jpg",
+            "name": "MI VIEJO QUERIDO",
+            "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/MI-VIEJO-QUERIDO-MYPDA-VERSION-CORTA.mp3",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.png",
             "artist": "1",
             "topics": [
                 "3"
@@ -49,32 +42,22 @@
         },
         {
             "id": "4",
-            "name": "Niña",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://e-cdns-images.dzcdn.net/images/artist/0ea506c7c0efeb2a91121698c2c85ecf/500x500.jpg",
+            "name": "PERDÓNAME",
+            "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/PERDÓNAME-MYPDA-VERSION-CORTA.mp3",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.png",
             "artist": "1",
             "topics": [
-                "1"
+                "4"
             ]
         },
         {
             "id": "5",
-            "name": "Si ella no está",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://soup.onerpm.com.br/web/user/images/1/33/33RcaOctwBHGtE7OVXoQ.200.jpg",
+            "name": "CONQUISTA",
+            "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/CONQUISTARTE-MYPDA-VERSION-CORTA.mp3",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.png",
             "artist": "1",
             "topics": [
-                "2"
-            ]
-        },
-        {
-            "id": "6",
-            "name": "La vida gira",
-            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
-            "albumImage": "https://i1.sndcdn.com/artworks-0ljj5zaSyritMYZK-STD5Dg-t500x500.jpg",
-            "artist": "1",
-            "topics": [
-                "3"
+                "5"
             ]
         }
     ]
