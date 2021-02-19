@@ -1,0 +1,81 @@
+{
+    "topics": {
+        "1": "Amor",
+        "2": "Despecho",
+        "3": "Cumpleaños",
+        "4": "Año nuevo",
+        "5": "Conquista",
+        "6": "Luto",
+        "7": "Despedida",
+        "8": "Nacimiento",
+        "9": "Mamá",
+        "10": "Papá",
+        "11": "Distancia",
+        "12": "Infidelidad"
+    },
+    "artists": {
+        "1": "Mauricio y palodeagua"
+    },
+    "songs": [
+        {
+            "id": "1",
+            "name": "Niña",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://resources.tidal.com/images/2e9ddbf8/a12b/4820/8517/80189433ad90/640x640.jpg",
+            "artist": "1",
+            "topics": [
+                "1"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Si ella no está",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://e-cdns-images.dzcdn.net/images/artist/76593210603b107fe269c7b39a8d4c22/264x264.jpg",
+            "artist": "1",
+            "topics": [
+                "2"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "La vida gira",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://i1.sndcdn.com/artworks-0ljj5zaSyritMYZK-STD5Dg-t500x500.jpg",
+            "artist": "1",
+            "topics": [
+                "3"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Niña",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://e-cdns-images.dzcdn.net/images/artist/0ea506c7c0efeb2a91121698c2c85ecf/500x500.jpg",
+            "artist": "1",
+            "topics": [
+                "1"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Si ella no está",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://soup.onerpm.com.br/web/user/images/1/33/33RcaOctwBHGtE7OVXoQ.200.jpg",
+            "artist": "1",
+            "topics": [
+                "2"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "La vida gira",
+            "previewPath": "https://cdn.deezer.cc/03/track/d3d315a574a5c6d4e4656446570764356407e66584e47505.mp3",
+            "albumImage": "https://i1.sndcdn.com/artworks-0ljj5zaSyritMYZK-STD5Dg-t500x500.jpg",
+            "artist": "1",
+            "topics": [
+                "3"
+            ]
+        }
+    ]
+}
