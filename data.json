@@ -1,18 +1,18 @@
 {
     "topics": {
-        "1": "CUMPLEAÑOS",
-        "2": "DISTANCIA",
-        "3": "PADRE",
-        "4": "RECONCILIACIÓN ",
-        "5": "CONQUISTA"
+        "1": "Cumpleaños",
+        "2": "Distancia",
+        "3": "Padre",
+        "4": "Reconciliación ",
+        "5": "Conquista"
     },
     "artists": {
-        "1": "MAURICIO Y PALODEAGUA"
+        "1": "Mauricio y Palodeagua"
     },
     "songs": [
         {
             "id": "1",
-            "name": "TU CUMPLEAÑOS",
+            "name": "Tu cumpleaños",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/TU-CUMPLEANOS-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU-CUMPLEANOS.png",
             "artist": "1",
@@ -22,7 +22,7 @@
         },
         {
             "id": "2",
-            "name": "LEJANÍA",
+            "name": "Lejanía",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/LEJANIA-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.png",
             "artist": "1",
@@ -32,7 +32,7 @@
         },
         {
             "id": "3",
-            "name": "MI VIEJO QUERIDO",
+            "name": "Mi viejo querido",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/MI-VIEJO-QUERIDO-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.png",
             "artist": "1",
@@ -42,7 +42,7 @@
         },
         {
             "id": "4",
-            "name": "PERDÓNAME",
+            "name": "Perdóname",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/PERDONAME-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.png",
             "artist": "1",
@@ -52,7 +52,7 @@
         },
         {
             "id": "5",
-            "name": "CONQUISTA",
+            "name": "Conquista",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/CONQUISTARTE-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.png",
             "artist": "1",
