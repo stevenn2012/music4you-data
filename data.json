@@ -14,7 +14,7 @@
             "id": "1",
             "name": "Tu cumpleaños",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/TU-CUMPLEANOS-MYPDA-VERSION-CORTA.mp3",
-            "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU-CUMPLEANOS.png",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU-CUMPLEANOS.jpg",
             "artist": "1",
             "topics": [
                 "1"
@@ -24,7 +24,7 @@
             "id": "2",
             "name": "Lejanía",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/LEJANIA-MYPDA-VERSION-CORTA.mp3",
-            "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.png",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.jpg",
             "artist": "1",
             "topics": [
                 "2"
@@ -34,7 +34,7 @@
             "id": "3",
             "name": "Mi viejo querido",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/MI-VIEJO-QUERIDO-MYPDA-VERSION-CORTA.mp3",
-            "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.png",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.jpg",
             "artist": "1",
             "topics": [
                 "3"
@@ -44,7 +44,7 @@
             "id": "4",
             "name": "Perdóname",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/PERDONAME-MYPDA-VERSION-CORTA.mp3",
-            "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.png",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.jpg",
             "artist": "1",
             "topics": [
                 "4"
@@ -54,7 +54,7 @@
             "id": "5",
             "name": "Conquista",
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/CONQUISTARTE-MYPDA-VERSION-CORTA.mp3",
-            "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.png",
+            "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.jpg",
             "artist": "1",
             "topics": [
                 "5"
