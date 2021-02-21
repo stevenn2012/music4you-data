@@ -14,7 +14,7 @@
             "name": "Nombre del padre",
             "allowText": true,
             "limit": 10,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Alberto",
                 "Camilo",
@@ -42,7 +42,7 @@
             "name": "¿Cual es su pasatiempo favorito?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Pasear",
                 "Pintar",
@@ -60,7 +60,7 @@
             "name": "Nietos",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Quiere nietos(as)",
                 "Tiene nietos(as)",
@@ -71,7 +71,7 @@
             "name": "¿Cuantos nietos quiere/tiene?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "0",
                 "1",
@@ -91,7 +91,7 @@
             "name": "Pelo",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Largo",
                 "Crespo"
@@ -101,7 +101,7 @@
             "name": "Color de pelo",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Negro",
                 "Rojo",
@@ -113,7 +113,7 @@
             "name": "Color de vestido al conocerla",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Blanco",
                 "Morado",
@@ -128,7 +128,7 @@
             "name": "Nombre de ella",
             "allowText": true,
             "limit": 10,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Kathy",
                 "Catalina",
@@ -163,7 +163,7 @@
             "name": "Nacionalidad",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Colombiana",
                 "Peruana",
@@ -187,7 +187,7 @@
             "name": "¿Sueña con conocer que lugar del mundo?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Italia",
                 "Jamaica",
@@ -209,7 +209,7 @@
             "name": "¿Cuantos años llevan de relacion?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "1",
                 "2",
@@ -267,7 +267,7 @@
             "name": "¿Que comida extrañas cuando estas lejos de casa?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Sancocho",
                 "Ajiaco",
@@ -285,7 +285,7 @@
             "name": "¿Desde donde envías esta canción?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Panamá",
                 "Costa Rica",
@@ -311,7 +311,7 @@
             "name": "Género",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Masculino",
                 "Femenino"
@@ -321,7 +321,7 @@
             "name": "Nombre de el",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "Roberto",
                 "Camilo",
@@ -355,7 +355,7 @@
             "name": "¿Cuantos años están cumpliendo?",
             "allowText": false,
             "limit": 0,
-            "opcional": false,
+            "optional": false,
             "values": [
                 "1",
                 "2",
