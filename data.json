@@ -9,6 +9,457 @@
     "artists": {
         "1": "Mauricio y Palodeagua"
     },
+    "parameters": {
+        "1": {
+            "name": "Nombre del padre",
+            "allowText": true,
+            "limit": 10,
+            "opcional": false,
+            "values": [
+                "Alberto",
+                "Camilo",
+                "Darío",
+                "Jose",
+                "Hernando",
+                "Francisco",
+                "Juan",
+                "Pablo",
+                "Alberto",
+                "Fernando",
+                "Bernardo",
+                "Enrique",
+                "Eduardo",
+                "Ricardo",
+                "Santiago",
+                "Gonzalo",
+                "Guillermo",
+                "Gregorio",
+                "Sebastián",
+                "Jaime"
+            ]
+        },
+        "2": {
+            "name": "¿Cual es su pasatiempo favorito?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Pasear",
+                "Pintar",
+                "Cantar",
+                "Pescar",
+                "Viajar",
+                "Bailar",
+                "Jugar",
+                "Leer",
+                "Apostar",
+                "Rumbear"
+            ]
+        },
+        "3": {
+            "name": "Nietos",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Quiere nietos(as)",
+                "Tiene nietos(as)",
+                "No quiere nietos(as)"
+            ]
+        },
+        "4": {
+            "name": "¿Cuantos nietos quiere/tiene?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ]
+        },
+        "5": {
+            "name": "Pelo",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Largo",
+                "Crespo"
+            ]
+        },
+        "6": {
+            "name": "Color de pelo",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Negro",
+                "Rojo",
+                "Mono",
+                "Castaño"
+            ]
+        },
+        "7": {
+            "name": "Color de vestido al conocerla",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Blanco",
+                "Morado",
+                "Azul",
+                "Gris",
+                "Rojo",
+                "Verde",
+                "Negro"
+            ]
+        },
+        "8": {
+            "name": "Nombre de ella",
+            "allowText": true,
+            "limit": 10,
+            "opcional": false,
+            "values": [
+                "Kathy",
+                "Catalina",
+                "Samantha",
+                "Verónica",
+                "Carolina",
+                "Camila",
+                "Arauca",
+                "Luisa",
+                "Diana",
+                "Isabel",
+                "Emiliana",
+                "LIna",
+                "Erika",
+                "Tatiana",
+                "Lucía",
+                "Sofía",
+                "Martha",
+                "Martina",
+                "María",
+                "Elena",
+                "Ana",
+                "Emma",
+                "Valeria",
+                "Daniela",
+                "Sara",
+                "Claudia",
+                "Victoria"
+            ]
+        },
+        "9": {
+            "name": "Nacionalidad",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Colombiana",
+                "Peruana",
+                "Ecuatoriana",
+                "Panameña",
+                "Venezolana",
+                "Boliviana",
+                "Estados unidos",
+                "Guatemala",
+                "Canadiense",
+                "Hondureña",
+                "Costa rica",
+                "Jamaica",
+                "Mexicana",
+                "Argentina",
+                "Uruguaya",
+                "Chilena"
+            ]
+        },
+        "10": {
+            "name": "¿Sueña con conocer que lugar del mundo?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Italia",
+                "Jamaica",
+                "Aruba",
+                "Tailandia",
+                "España",
+                "La India",
+                "Australia",
+                "Bali",
+                "Paris",
+                "Islandia",
+                "Africa",
+                "Turquía",
+                "Colombia",
+                "China"
+            ]
+        },
+        "11": {
+            "name": "¿Cuantos años llevan de relacion?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50"
+            ]
+        },
+        "12": {
+            "name": "¿Que comida extrañas cuando estas lejos de casa?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Sancocho",
+                "Ajiaco",
+                "Pescado",
+                "Pollito",
+                "Pizza",
+                "Ceviche",
+                "Tacos",
+                "Enchiladas",
+                "Sudado",
+                "La carne"
+            ]
+        },
+        "13": {
+            "name": "¿Desde donde envías esta canción?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Panamá",
+                "Costa Rica",
+                "Barranquilla",
+                "Puerto Lopez",
+                "Villavicencio",
+                "Neiva",
+                "Nueva York",
+                "Quito",
+                "Bogotá",
+                "Miami",
+                "Lima",
+                "Santiago",
+                "Londres",
+                "Cartagena",
+                "Medellín",
+                "Santa Marta",
+                "Roma",
+                "Manizalez"
+            ]
+        },
+        "14": {
+            "name": "Género",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Masculino",
+                "Femenino"
+            ]
+        },
+        "15": {
+            "name": "Nombre de el",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "Roberto",
+                "Camilo",
+                "Darío",
+                "Jose",
+                "Hernando",
+                "Francisco",
+                "Juan",
+                "Pablo",
+                "Alberto",
+                "Fernando",
+                "Bernardo",
+                "Enrique",
+                "Eduardo",
+                "Ricardo",
+                "Santiago",
+                "Gonzalo",
+                "Guillermo",
+                "Gregorio",
+                "Sebastián",
+                "Jaime",
+                "Mauricio",
+                "hector",
+                "Rubén",
+                "Carlos",
+                "Diego",
+                "Antonio"
+            ]
+        },
+        "16": {
+            "name": "¿Cuantos años están cumpliendo?",
+            "allowText": false,
+            "limit": 0,
+            "opcional": false,
+            "values": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "60",
+                "61",
+                "62",
+                "63",
+                "64",
+                "65",
+                "66",
+                "67",
+                "68",
+                "69",
+                "70",
+                "71",
+                "72",
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78",
+                "79",
+                "80",
+                "81",
+                "82",
+                "83",
+                "84",
+                "85",
+                "86",
+                "87",
+                "88",
+                "89",
+                "90",
+                "91",
+                "92",
+                "93",
+                "94",
+                "95",
+                "96",
+                "97",
+                "98",
+                "99",
+                "100"
+            ]
+        }
+    },
     "songs": [
         {
             "id": "1",
@@ -16,6 +467,9 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/TU-CUMPLEANOS-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU-CUMPLEANOS.jpg",
             "artist": "1",
+            "parameters":[
+               
+            ],
             "topics": [
                 "1"
             ]
@@ -26,6 +480,9 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/LEJANIA-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.jpg",
             "artist": "1",
+            "parameters":[
+               "12", "13", "8"
+            ],
             "topics": [
                 "2"
             ]
@@ -36,6 +493,9 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/MI-VIEJO-QUERIDO-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.jpg",
             "artist": "1",
+            "parameters":[
+                "1", "2", "3", "4"
+            ],
             "topics": [
                 "3"
             ]
@@ -46,6 +506,9 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/PERDONAME-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.jpg",
             "artist": "1",
+            "parameters":[
+               "8", "11"
+            ],
             "topics": [
                 "4"
             ]
@@ -56,6 +519,9 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/CONQUISTARTE-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.jpg",
             "artist": "1",
+            "parameters":[
+               "5", "6", "7", "8", "9", "10"
+            ],
             "topics": [
                 "5"
             ]
