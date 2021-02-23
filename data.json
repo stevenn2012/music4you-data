@@ -12,6 +12,7 @@
     "parameters": {
         "1": {
             "name": "Nombre del padre",
+            "placeHolder": "Alberto",
             "allowText": true,
             "limit": 10,
             "optional": false,
@@ -40,6 +41,7 @@
         },
         "2": {
             "name": "¿Cual es su pasatiempo favorito?",
+            "placeHolder": "Pasear",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -58,6 +60,7 @@
         },
         "3": {
             "name": "Nietos",
+            "placeHolder": "Quiere nietos(as)",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -69,6 +72,7 @@
         },
         "4": {
             "name": "¿Cuantos nietos quiere/tiene?",
+            "placeHolder": "1",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -89,6 +93,7 @@
         },
         "5": {
             "name": "Pelo",
+            "placeHolder": "Largo",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -99,6 +104,7 @@
         },
         "6": {
             "name": "Color de pelo",
+            "placeHolder": "Negro",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -111,6 +117,7 @@
         },
         "7": {
             "name": "Color de vestido al conocerla",
+            "placeHolder": "Rojo",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -126,6 +133,7 @@
         },
         "8": {
             "name": "Nombre de ella",
+            "placeHolder": "Lina",
             "allowText": true,
             "limit": 10,
             "optional": false,
@@ -141,7 +149,7 @@
                 "Diana",
                 "Isabel",
                 "Emiliana",
-                "LIna",
+                "Lina",
                 "Erika",
                 "Tatiana",
                 "Lucía",
@@ -161,6 +169,7 @@
         },
         "9": {
             "name": "Nacionalidad",
+            "placeHolder": "Colombiana",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -185,6 +194,7 @@
         },
         "10": {
             "name": "¿Sueña con conocer que lugar del mundo?",
+            "placeHolder": "Italia",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -207,6 +217,7 @@
         },
         "11": {
             "name": "¿Cuantos años llevan de relacion?",
+            "placeHolder": "10",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -265,6 +276,7 @@
         },
         "12": {
             "name": "¿Que comida extrañas cuando estas lejos de casa?",
+            "placeHolder": "Sancocho",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -283,6 +295,7 @@
         },
         "13": {
             "name": "¿Desde donde envías esta canción?",
+            "placeHolder": "Bogotá",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -309,6 +322,7 @@
         },
         "14": {
             "name": "Género",
+            "placeHolder": "Femenino",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -319,6 +333,7 @@
         },
         "15": {
             "name": "Nombre de el",
+            "placeHolder": "Roberto",
             "allowText": false,
             "limit": 0,
             "optional": false,
@@ -353,6 +368,7 @@
         },
         "16": {
             "name": "¿Cuantos años están cumpliendo?",
+            "placeHolder": "10",
             "allowText": false,
             "limit": 0,
             "optional": false,
