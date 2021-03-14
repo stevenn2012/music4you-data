@@ -14,29 +14,7 @@
             "name": "Nombre del padre",
             "placeHolder": "Alberto",
             "limit": 10,
-            "values": [
-                "Alberto",
-                "Camilo",
-                "Darío",
-                "Jose",
-                "Hernando",
-                "Francisco",
-                "Juan",
-                "Pablo",
-                "Alberto",
-                "Fernando",
-                "Bernardo",
-                "Enrique",
-                "Eduardo",
-                "Ricardo",
-                "Santiago",
-                "Gonzalo",
-                "Guillermo",
-                "Gregorio",
-                "Sebastián",
-                "Jaime",
-                "Otro"
-            ]
+            "values": []
         },
         "2": {
             "name": "¿Cual es su pasatiempo favorito?",
@@ -116,36 +94,7 @@
             "name": "Nombre de ella",
             "placeHolder": "Lina",
             "limit": 10,
-            "values": [
-                "Kathy",
-                "Catalina",
-                "Samantha",
-                "Verónica",
-                "Carolina",
-                "Camila",
-                "Arauca",
-                "Luisa",
-                "Diana",
-                "Isabel",
-                "Emiliana",
-                "Lina",
-                "Erika",
-                "Tatiana",
-                "Lucía",
-                "Sofía",
-                "Martha",
-                "Martina",
-                "María",
-                "Elena",
-                "Ana",
-                "Emma",
-                "Valeria",
-                "Daniela",
-                "Sara",
-                "Claudia",
-                "Victoria",
-                "Otro"
-            ]
+            "values": []
         },
         "9": {
             "name": "Nacionalidad",
@@ -296,34 +245,7 @@
         "15": {
             "name": "Nombre de el",
             "placeHolder": "Roberto",
-            "values": [
-                "Roberto",
-                "Camilo",
-                "Darío",
-                "Jose",
-                "Hernando",
-                "Francisco",
-                "Juan",
-                "Pablo",
-                "Alberto",
-                "Fernando",
-                "Bernardo",
-                "Enrique",
-                "Eduardo",
-                "Ricardo",
-                "Santiago",
-                "Gonzalo",
-                "Guillermo",
-                "Gregorio",
-                "Sebastián",
-                "Jaime",
-                "Mauricio",
-                "hector",
-                "Rubén",
-                "Carlos",
-                "Diego",
-                "Antonio"
-            ]
+            "values": []
         },
         "16": {
             "name": "¿Cuantos años están cumpliendo?",
@@ -468,7 +390,7 @@
                 "13",
                 "8"
             ],
-            "dynamic":{},
+            "dynamic": {},
             "topics": [
                 "2"
             ]
@@ -485,7 +407,7 @@
                 "3",
                 "4"
             ],
-            "dynamic":{},
+            "dynamic": {},
             "topics": [
                 "3"
             ]
@@ -500,7 +422,7 @@
                 "8",
                 "11"
             ],
-            "dynamic":{},
+            "dynamic": {},
             "topics": [
                 "4"
             ]
@@ -519,7 +441,7 @@
                 "9",
                 "10"
             ],
-            "dynamic":{},
+            "dynamic": {},
             "topics": [
                 "5"
             ]
