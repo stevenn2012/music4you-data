@@ -365,16 +365,25 @@
                 "14",
                 "16"
             ],
-            "dynamyc": {
-                "14": {
-                    "Masculino": [
-                        "15"
-                    ],
-                    "Femenino": [
-                        "8"
+            "dynamyc": [
+                {
+                    "parameterId": "14",
+                    "values": [
+                        {
+                            "value": "Masculino",
+                            "parameters": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "value": "Femenino",
+                            "parameters": [
+                                "8"
+                            ]
+                        }
                     ]
                 }
-            },
+            ],
             "topics": [
                 "1"
             ]
@@ -390,7 +399,7 @@
                 "13",
                 "8"
             ],
-            "dynamic": {},
+            "dynamic": [],
             "topics": [
                 "2"
             ]
@@ -407,7 +416,7 @@
                 "3",
                 "4"
             ],
-            "dynamic": {},
+            "dynamic": [],
             "topics": [
                 "3"
             ]
@@ -422,7 +431,7 @@
                 "8",
                 "11"
             ],
-            "dynamic": {},
+            "dynamic": [],
             "topics": [
                 "4"
             ]
@@ -441,7 +450,7 @@
                 "9",
                 "10"
             ],
-            "dynamic": {},
+            "dynamic": [],
             "topics": [
                 "5"
             ]
