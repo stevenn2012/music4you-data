@@ -245,6 +245,7 @@
         "15": {
             "name": "Nombre de el",
             "placeHolder": "Roberto",
+            "limit": 10,
             "values": []
         },
         "16": {
