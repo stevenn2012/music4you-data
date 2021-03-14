@@ -439,9 +439,20 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/TU-CUMPLEANOS-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/TU-CUMPLEANOS.jpg",
             "artist": "1",
-            "parameters":[
-               "14", "8", "15", "16"
+            "parameters": [
+                "14",
+                "16"
             ],
+            "dynamyc": {
+                "14": {
+                    "Masculino": [
+                        "15"
+                    ],
+                    "Femenino": [
+                        "8"
+                    ]
+                }
+            },
             "topics": [
                 "1"
             ]
@@ -452,9 +463,12 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/LEJANIA-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.jpg",
             "artist": "1",
-            "parameters":[
-               "12", "13", "8"
+            "parameters": [
+                "12",
+                "13",
+                "8"
             ],
+            "dynamic":{},
             "topics": [
                 "2"
             ]
@@ -465,9 +479,13 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/MI-VIEJO-QUERIDO-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.jpg",
             "artist": "1",
-            "parameters":[
-                "1", "2", "3", "4"
+            "parameters": [
+                "1",
+                "2",
+                "3",
+                "4"
             ],
+            "dynamic":{},
             "topics": [
                 "3"
             ]
@@ -478,9 +496,11 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/PERDONAME-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.jpg",
             "artist": "1",
-            "parameters":[
-               "8", "11"
+            "parameters": [
+                "8",
+                "11"
             ],
+            "dynamic":{},
             "topics": [
                 "4"
             ]
@@ -491,9 +511,15 @@
             "previewPath": "https://stevenn2012.github.io/music4you-data/fragments/CONQUISTARTE-MYPDA-VERSION-CORTA.mp3",
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.jpg",
             "artist": "1",
-            "parameters":[
-               "5", "6", "7", "8", "9", "10"
+            "parameters": [
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
             ],
+            "dynamic":{},
             "topics": [
                 "5"
             ]
