@@ -11,14 +11,17 @@
     },
     "parameters": {
         "1": {
-            "name": "Nombre del padre",
+            "name": "Nombre de tú papá",
             "placeHolder": "Alberto",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": []
         },
         "2": {
             "name": "¿Cual es su pasatiempo favorito?",
             "placeHolder": "Pasear",
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Pasear",
                 "Pintar",
@@ -36,6 +39,8 @@
         "3": {
             "name": "Nietos",
             "placeHolder": "Quiere nietos(as)",
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Quiere nietos(as)",
                 "Tiene nietos(as)",
@@ -45,6 +50,8 @@
         "4": {
             "name": "¿Cuantos nietos quiere/tiene?",
             "placeHolder": "1",
+            "limit": 2,
+            "isNumberic": true,
             "values": [
                 "0",
                 "1",
@@ -63,7 +70,8 @@
         "5": {
             "name": "Pelo",
             "placeHolder": "Largo",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Largo",
                 "Crespo",
@@ -73,7 +81,8 @@
         "6": {
             "name": "Color de pelo",
             "placeHolder": "Negro",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Negro",
                 "Rojo",
@@ -85,7 +94,8 @@
         "7": {
             "name": "Color de vestido al conocerla",
             "placeHolder": "Rojo",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Blanco",
                 "Morado",
@@ -100,13 +110,15 @@
         "8": {
             "name": "Nombre de ella",
             "placeHolder": "Lina",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": []
         },
         "9": {
             "name": "Nacionalidad",
             "placeHolder": "Colombiana",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Colombiana",
                 "Peruana",
@@ -130,7 +142,8 @@
         "10": {
             "name": "¿Sueña con conocer que lugar del mundo?",
             "placeHolder": "Italia",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Italia",
                 "Jamaica",
@@ -152,6 +165,8 @@
         "11": {
             "name": "¿Cuantos años llevan de relacion?",
             "placeHolder": "10",
+            "limit": 2,
+            "isNumberic": true,
             "values": [
                 "1",
                 "2",
@@ -208,7 +223,8 @@
         "12": {
             "name": "¿Que comida extrañas cuando estas lejos de casa?",
             "placeHolder": "Sancocho",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Sancocho",
                 "Ajiaco",
@@ -226,7 +242,8 @@
         "13": {
             "name": "¿Desde donde envías esta canción?",
             "placeHolder": "Bogotá",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Panamá",
                 "Costa Rica",
@@ -252,20 +269,25 @@
         "14": {
             "name": "Género",
             "placeHolder": "Femenino",
+            "limit": 15,
+            "isNumberic": false,
             "values": [
                 "Masculino",
                 "Femenino"
             ]
         },
         "15": {
-            "name": "Nombre de el",
+            "name": "Su nombre",
             "placeHolder": "Roberto",
-            "limit": 10,
+            "limit": 15,
+            "isNumberic": false,
             "values": []
         },
         "16": {
             "name": "¿Cuantos años está cumpliendo?",
             "placeHolder": "10",
+            "limit": 2,
+            "isNumberic": true,
             "values": [
                 "1",
                 "2",
@@ -411,6 +433,7 @@
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/LEJANIA.jpg",
             "artist": "1",
             "parameters": [
+                "14",
                 "12",
                 "13",
                 "8"
@@ -444,6 +467,7 @@
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/PERDONAME.jpg",
             "artist": "1",
             "parameters": [
+                "14",
                 "8",
                 "11"
             ],
@@ -459,6 +483,7 @@
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.jpg",
             "artist": "1",
             "parameters": [
+                "14",
                 "5",
                 "6",
                 "7",
