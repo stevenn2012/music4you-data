@@ -68,7 +68,7 @@
             ]
         },
         "5": {
-            "name": "Pelo",
+            "name": "Su pelo",
             "placeHolder": "Largo",
             "limit": 15,
             "isNumberic": false,
@@ -79,7 +79,7 @@
             ]
         },
         "6": {
-            "name": "Color de pelo",
+            "name": "Su color de pelo",
             "placeHolder": "Negro",
             "limit": 15,
             "isNumberic": false,
@@ -92,7 +92,7 @@
             ]
         },
         "7": {
-            "name": "Color de vestido al conocerla",
+            "name": "Su color de vestido al conocerle",
             "placeHolder": "Rojo",
             "limit": 15,
             "isNumberic": false,
