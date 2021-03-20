@@ -267,7 +267,7 @@
             ]
         },
         "14": {
-            "name": "Género",
+            "name": "Su género",
             "placeHolder": "Femenino",
             "limit": 15,
             "isNumberic": false,
@@ -435,10 +435,27 @@
             "parameters": [
                 "14",
                 "12",
-                "13",
-                "8"
+                "13"
             ],
-            "dynamic": [],
+            "dynamic": [
+                {
+                    "parameterId": "14",
+                    "values": [
+                        {
+                            "value": "Masculino",
+                            "parameters": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "value": "Femenino",
+                            "parameters": [
+                                "8"
+                            ]
+                        }
+                    ]
+                }
+            ],
             "topics": [
                 "2"
             ]
@@ -485,10 +502,27 @@
             "artist": "1",
             "parameters": [
                 "14",
-                "8",
                 "11"
             ],
-            "dynamic": [],
+            "dynamic": [
+                {
+                    "parameterId": "14",
+                    "values": [
+                        {
+                            "value": "Masculino",
+                            "parameters": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "value": "Femenino",
+                            "parameters": [
+                                "8"
+                            ]
+                        }
+                    ]
+                }
+            ],
             "topics": [
                 "4"
             ]
@@ -500,15 +534,31 @@
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/CONQUISTA.jpg",
             "artist": "1",
             "parameters": [
-                "14",
                 "5",
                 "6",
                 "7",
-                "8",
                 "9",
                 "10"
             ],
-            "dynamic": [],
+            "dynamic": [
+                {
+                    "parameterId": "14",
+                    "values": [
+                        {
+                            "value": "Masculino",
+                            "parameters": [
+                                "15"
+                            ]
+                        },
+                        {
+                            "value": "Femenino",
+                            "parameters": [
+                                "8"
+                            ]
+                        }
+                    ]
+                }
+            ],
             "topics": [
                 "5"
             ]
