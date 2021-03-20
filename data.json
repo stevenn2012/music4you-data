@@ -108,7 +108,7 @@
             ]
         },
         "8": {
-            "name": "Nombre de ella",
+            "name": "Su nombre",
             "placeHolder": "Lina",
             "limit": 15,
             "isNumberic": false,
