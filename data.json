@@ -2,7 +2,7 @@
     "topics": {
         "1": "Cumpleaños",
         "2": "Distancia",
-        "3": "Padre",
+        "3": "Padre ó Madre",
         "4": "Reconciliación ",
         "5": "Conquista"
     },
@@ -225,6 +225,13 @@
             "limit": 2,
             "isNumeric": true,
             "values": []
+        },
+        "17": {
+            "name": "Nombre de tú mamá",
+            "placeHolder": "Maria",
+            "limit": 15,
+            "isNumeric": false,
+            "values": []
         }
     },
     "songs": [
@@ -302,7 +309,7 @@
             "albumImage": "https://stevenn2012.github.io/music4you-data/images/MI-VIEJO-QUERIDO.jpg",
             "artist": "1",
             "parameters": [
-                "1",
+                "14",
                 "2",
                 "3"
             ],
@@ -320,6 +327,23 @@
                             "value": "Tiene nietos(as)",
                             "parameters": [
                                 "4"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parameterId": "14",
+                    "values": [
+                        {
+                            "value": "Masculino",
+                            "parameters": [
+                                "1"
+                            ]
+                        },
+                        {
+                            "value": "Femenino",
+                            "parameters": [
+                                "17"
                             ]
                         }
                     ]
