@@ -157,7 +157,7 @@
             "values": []
         },
         "12": {
-            "name": "¿Que comida extrañas cuando estas lejos de casa?",
+            "name": "¿Qué comida te hace falta cuando estás lejos de casa?",
             "placeHolder": "Sancocho",
             "limit": 15,
             "isNumeric": false,
@@ -232,6 +232,22 @@
             "limit": 15,
             "isNumeric": false,
             "values": []
+        },
+        "18": {
+            "name": "Su color de ropa al conocerle",
+            "placeHolder": "Rojo",
+            "limit": 15,
+            "isNumeric": false,
+            "values": [
+                "Blanco",
+                "Morado",
+                "Azul",
+                "Gris",
+                "Rojo",
+                "Verde",
+                "Negro",
+                "Otro color"
+            ]
         }
     },
     "songs": [
@@ -396,7 +412,6 @@
                 "14",
                 "5",
                 "6",
-                "7",
                 "9",
                 "10"
             ],
@@ -407,13 +422,13 @@
                         {
                             "value": "Masculino",
                             "parameters": [
-                                "15"
+                                "15", "18"
                             ]
                         },
                         {
                             "value": "Femenino",
                             "parameters": [
-                                "8"
+                                "8", "7"
                             ]
                         }
                     ]
