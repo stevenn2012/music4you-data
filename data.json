@@ -102,7 +102,7 @@
             "values": []
         },
         "9": {
-            "name": "Nacionalidad",
+            "name": "Su nacionalidad",
             "placeHolder": "Colombiana",
             "limit": 15,
             "isNumeric": false,
