@@ -48,7 +48,14 @@
             ]
         },
         "4": {
-            "name": "¿Cuantos nietos quiere/tiene?",
+            "name": "¿Cuantos nietos quiere?",
+            "placeHolder": "1",
+            "limit": 2,
+            "isNumeric": true,
+            "values": []
+        },
+        "19": {
+            "name": "¿Cuantos nietos tiene?",
             "placeHolder": "1",
             "limit": 2,
             "isNumeric": true,
@@ -342,7 +349,7 @@
                         {
                             "value": "Tiene nietos(as)",
                             "parameters": [
-                                "4"
+                                "19"
                             ]
                         }
                     ]
@@ -422,13 +429,15 @@
                         {
                             "value": "Masculino",
                             "parameters": [
-                                "15", "18"
+                                "15",
+                                "18"
                             ]
                         },
                         {
                             "value": "Femenino",
                             "parameters": [
-                                "8", "7"
+                                "8",
+                                "7"
                             ]
                         }
                     ]
