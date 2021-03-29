@@ -1,10 +1,11 @@
 {
     "topics": {
-        "1": "Cumpleaños",
-        "2": "Distancia",
-        "3": "Padre ó Madre",
-        "4": "Reconciliación ",
-        "5": "Conquista"
+        "1": "Distancia",
+        "2": "Perdón",
+        "3": "Conquista",
+        "4": "Para Papá",
+        "5": "Para Mamá",
+        "6": "Cumpleaños"
     },
     "artists": {
         "1": "Mauricio y Palodeagua"
@@ -288,7 +289,7 @@
                 }
             ],
             "topics": [
-                "1"
+                "6"
             ]
         },
         {
@@ -322,7 +323,7 @@
                 }
             ],
             "topics": [
-                "2"
+                "1"
             ]
         },
         {
@@ -373,7 +374,7 @@
                 }
             ],
             "topics": [
-                "3"
+                "4", "5"
             ]
         },
         {
@@ -406,7 +407,7 @@
                 }
             ],
             "topics": [
-                "4"
+                "2"
             ]
         },
         {
@@ -444,7 +445,7 @@
                 }
             ],
             "topics": [
-                "5"
+                "3"
             ]
         }
     ]
