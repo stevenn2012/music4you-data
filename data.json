@@ -256,6 +256,13 @@
                 "Negro",
                 "Otro color"
             ]
+        },
+        "20": {
+            "name": "Su color de ojos",
+            "placeHolder": "Negros",
+            "limit": 15,
+            "isNumeric": false,
+            "values": []
         }
     },
     "songs": [
@@ -418,8 +425,6 @@
             "artist": "1",
             "parameters": [
                 "14",
-                "5",
-                "6",
                 "9",
                 "10"
             ],
@@ -431,13 +436,15 @@
                             "value": "Masculino",
                             "parameters": [
                                 "15",
-                                "18"
+                                "18",
+                                "20"
                             ]
                         },
                         {
                             "value": "Femenino",
                             "parameters": [
                                 "8",
+                                "6",
                                 "7"
                             ]
                         }
